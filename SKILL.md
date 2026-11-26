@@ -7,7 +7,11 @@ lifecycle: active
 
 # Musical Mnemonic Learning
 
-Turn dry material into pleasant, repetitive, toe-tapping songs that improve encoding and retention for humans. Stack the music layer with dual coding, active recall, and spacing.
+Turn dry material into pleasant, repetitive, toe-tapping songs that improve encoding and retention for humans.
+
+**Rationale:** Music provides rhythm, emotion, and repetition that plain text lacks. By pairing high-utility items with their meanings in a catchy, moderate-tempo groove and stacking the result with dual coding, active recall, and spacing, the material becomes easier to absorb and more likely to stick. The approach deliberately mixes well-supported learning principles with experimental but plausible mechanisms (for example, mild reward-circuit engagement via pleasant groove).
+
+For the full list of techniques, evidence status, and testing notes, see [`references/learning-science.md`](references/learning-science.md).
 
 ## Core Workflow
 
@@ -18,7 +22,8 @@ Turn dry material into pleasant, repetitive, toe-tapping songs that improve enco
    - Short lines (6–12 syllables).  
    - Strong, repetitive chorus that pairs the item with its meaning or plain-English explanation.  
    - Double key lines inside the chorus; add a final chorus for more exposures.  
-   - Use [Verse], [Pre-Chorus], [Chorus], [Bridge], [Outro] tags.
+   - Use [Verse], [Pre-Chorus], [Chorus], [Bridge], [Outro] tags.  
+   See `references/lyric-patterns.md` for reusable templates.
 
 3. **Generate the track**  
    Style prompt template (adjust as needed):  
