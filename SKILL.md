@@ -49,6 +49,7 @@ For the full list of techniques, evidence status, and testing notes, see [`refer
 ## Domain Adaptations
 
 - **Language**: French/English (or any pair) phrase + meaning in chorus.  
+  Optional story mode: turn the dialogue into a simple continuing narrative. See `references/story-templates.md` for popular tropes, a 5-lesson outline, and a full billionaire-werewolf example.
 - **Chess**: Cycle high-value patterns with simple board icons or diagrams timed to the line.  
 - **Programming (e.g. Rust)**: Pair syntax with plain-English “why”; show the code snippet in subtitles.
 
