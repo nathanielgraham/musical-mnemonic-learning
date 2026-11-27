@@ -52,6 +52,12 @@ Pleasant but simple scenes with large high-contrast text overlays.
 **Status:** Aligns with Mayer’s coherence and signaling principles.  
 **Reference:** Mayer’s multimedia principles.
 
+### Narrative Engagement (Story Mode)
+Embedding vocabulary in a simple continuing story (e.g., romance or fantasy tropes) rather than isolated phrases.  
+**Why included:** Narrative provides emotional stakes, causal structure, and a reason to anticipate the next lesson, which can increase motivation and memory tagging.  
+**Status:** Supported by research on narrative transportation and emotional memory; application to language songs is experimental but promising.  
+**Reference:** Green & Brock on narrative transportation; general literature on story-based learning and emotional enhancement of memory (McGaugh).
+
 ### Binaural Beats (tested, not adopted)
 Short experiments with binaural beats for focus.  
 **Why included:** Meta-analyses show small-to-moderate average effects on attention, but results are inconsistent and entrainment claims are weak.  
