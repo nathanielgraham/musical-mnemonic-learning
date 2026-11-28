@@ -37,6 +37,7 @@ For the full list of techniques, evidence status, and testing notes, see [`refer
 
 4. **Add dual coding**  
    - Subtitles / on-screen text showing the sung lines (or code/chess diagram).  
+   - Optional: color-code subtitles by language (French = soft yellow, English = light cyan, mixed chorus lines = soft white).  
    - Optional still images or short clips: clean, positive, low-clutter (phrase cards, simple diagrams, warm scenes). Use Grok Imagine for stills; stitch short videos if motion is wanted.  
    - Keep visuals supportive, not competing.
 
