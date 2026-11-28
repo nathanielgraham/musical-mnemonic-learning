@@ -11,6 +11,12 @@ Presenting the same information in both auditory (song) and visual (subtitles or
 **Why included:** Reduces cognitive load and improves retention by giving two retrieval routes.  
 **Reference:** Mayer’s multimedia learning principles; Paivio’s dual-coding theory.
 
+### Color-Coded Subtitles (Language Cue)
+French lines in one consistent color (soft yellow), English lines in another (light cyan), chorus lines that mix both languages in neutral soft white.  
+**Why included:** Adds a stable visual channel that marks language identity independently of voice or timing, reinforcing the mapping.  
+**Status:** Practical extension of dual coding; not formally studied as “triple coding,” but low-cost and high-clarity.  
+**Reference:** Mayer’s signaling principle; general dual-coding literature.
+
 ### Spaced Repetition / Massed-then-Spaced Listening
 Heavy initial repetition (massed) followed by increasing gaps between reviews.  
 **Why included:** One of the most robust findings in learning science for long-term retention.  
